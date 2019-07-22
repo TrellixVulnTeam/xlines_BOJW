@@ -10,7 +10,7 @@ Module Functions:
 import os
 import multiprocessing
 import inspect
-from xlines.usermessage import stdout_message
+from libtools import stdout_message
 from xlines import Colors
 from xlines.core import BUFFER, acct, bwt, text, rst, arrow, div
 from xlines.core import linecount, print_header, print_footer

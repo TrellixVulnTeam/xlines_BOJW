@@ -9,7 +9,7 @@ import sys
 import inspect
 import logging
 from time import sleep
-from xlines.usermessage import stdout_message
+from libtools import stdout_message
 from xlines.common import terminal_size
 from xlines.colormap import ColorMap
 from xlines._version import __version__

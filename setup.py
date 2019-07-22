@@ -34,7 +34,8 @@ import xlines
 
 
 requires = [
-    'pygments'
+    'Pygments',
+    'libtools'
 ]
 
 

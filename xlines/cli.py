@@ -34,7 +34,7 @@ from shutil import copy2 as copyfile
 from shutil import which
 from pathlib import Path
 from xlines import about, Colors, logger
-from xlines.usermessage import stdout_message
+from libtools import stdout_message
 from xlines.statics import local_config
 from xlines.help_menu import menu_body
 from xlines.square import border_map
